@@ -1,6 +1,6 @@
 <img align="center" src="https://raw.githubusercontent.com/rheaditi/rheaditi/v1/assets/banner.min.svg" />
 
-### Hi there 👋
+### Hello! 👋
 
 <!--
 **rheaditi/rheaditi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
