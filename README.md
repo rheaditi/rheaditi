@@ -1,16 +1,16 @@
-### Hi there 👋
+<a href="https://aditimohanty.com/?utm_source=github_profile&utm_content=banner" title="Aditi Mohanty"><img align="center" src="https://raw.githubusercontent.com/rheaditi/rheaditi/v1/assets/banner-v3.svg" /></a>
 
-<!--
-**rheaditi/rheaditi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! 👋🏽 
 
-Here are some ideas to get you started:
+<hr height="1" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://aditimohanty.com/utm_source=github_profile&utm_content=icon" title="Check out my website">
+  <img src="https://raw.githubusercontent.com/rheaditi/rheaditi/v1/assets/website.svg" width="20" height="20" align="right"/>
+</a>
+<a href="https://www.linkedin.com/in/aditimohanty/" title="Connect on LinkedIn">
+  <img src="https://raw.githubusercontent.com/rheaditi/rheaditi/v1/assets/linkedin.svg" width="20" height="20" align="right"/>
+</a>
+<a href="https://twitter.com/rheaditi" title="Reach out on Twitter">
+  <img src="https://raw.githubusercontent.com/rheaditi/rheaditi/v1/assets/twitter.svg" width="20" height="20" align="right"/>
+</a>
