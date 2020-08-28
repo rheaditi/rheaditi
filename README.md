@@ -1,4 +1,4 @@
-<a href="https://aditimohanty.com/?utm_source=github_profile" title="Aditi Mohanty"><img align="center" src="https://raw.githubusercontent.com/rheaditi/rheaditi/v1/assets/banner-v2.svg" /></a>
+<a href="https://aditimohanty.com/?utm_source=github_profile" title="Aditi Mohanty"><img align="center" src="https://raw.githubusercontent.com/rheaditi/rheaditi/v1/assets/banner-v3.svg" /></a>
 
 Hello! 👋🏽 
 
